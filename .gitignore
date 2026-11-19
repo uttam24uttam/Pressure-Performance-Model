@@ -17,6 +17,7 @@ README.md
 
 # Dashboard builder (kept local)
 pipeline/dashboard/
+pipeline/common/
 *.css
 
 # Python / editor / notebook clutter
