@@ -1,0 +1,27 @@
+Final lists: names exactly as displayed in the data pack (check each against the Unstop dropdown).
+
+TOP 10 BATTERS
+ 1. Abhishek Sharma  (player_id 6281; India, Sunrisers Hyderabad)
+ 2. Vaibhav Sooryavanshi  (player_id 50284; India, Rajasthan Royals)
+ 3. Namboori Tilak Varma  (player_id 7897; India, Mumbai Indians)
+ 4. Heinrich Klaasen  (player_id 4260; South Africa, Sunrisers Hyderabad)
+ 5. Prabhsimran Singh  (player_id 7216; India, Punjab Kings)
+ 6. Suryakumar Yadav  (player_id 1699; India, Mumbai Indians)
+ 7. Shreyas Iyer  (player_id 3647; India, Punjab Kings, Kolkata Knight Riders)
+ 8. Andre Russell  (player_id 1318; West Indies, Kolkata Knight Riders)
+ 9. Pathum Nissanka  (player_id 6931; Sri Lanka, Delhi Capitals)
+10. Virat Kohli  (player_id 47; India, Royal Challengers Bengaluru)
+
+TOP 10 BOWLERS
+ 1. Sunil Narine  (player_id 781; Kolkata Knight Riders)
+ 2. Jasprit Bumrah  (player_id 2933; India, Mumbai Indians)
+ 3. Kuldeep Yadav  (player_id 3644; India, Delhi Capitals)
+ 4. Bhuvneshwar Kumar  (player_id 360; India, Royal Challengers Bengaluru, Sunrisers Hyderabad)
+ 5. Varun Chakravarthy  (player_id 6256; India, Kolkata Knight Riders)
+ 6. Kagiso Rabada  (player_id 3628; South Africa, Gujarat Titans, Punjab Kings)
+ 7. Josh Hazlewood  (player_id 830; Australia, Royal Challengers Bengaluru)
+ 8. Rashid Khan  (player_id 4722; Afghanistan, Gujarat Titans)  WARNING duplicate name: id 20172 (unknown teams)
+ 9. Mustafizur Rahman  (player_id 4373; Bangladesh, Kolkata Knight Riders, Delhi Capitals, Chennai Super Kings)
+10. Patrick Cummins  (player_id 1758; Australia, Sunrisers Hyderabad, Kolkata Knight Riders)
+
+All names shared by more than one player_id in the data (7): abdul samad -> ids [6922, 7446]; bashir ahmad -> ids [29833, 39479]; basil hameed -> ids [8638, 39444]; haider ali -> ids [7338, 28756]; mohammad ali -> ids [3083, 20229]; muhammad farooq -> ids [27373, 28978]; rashid khan -> ids [4722, 20172]
